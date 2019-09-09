@@ -1,6 +1,6 @@
-spotify-this-song,"I Want it That Way"
-movie-this, "blade runnner"
-concert-this, "dir en grey"
-spotify-this-song,"obscure"
-movie-this,"black panther"
+spotify-this-song,"I Want it That Way",
+movie-this,"blade runner",
+concert-this,"dir en grey",
+spotify-this-song,"obscure",
+movie-this,"black panther",
 concert-this,"big big train"

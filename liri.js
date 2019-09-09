@@ -136,6 +136,7 @@ function doWhatItSays() {
       return console.log(err);
   }
     data = data.split(",");
+    console.log(data)
     var action = data[0]
     var value = data[1]
 
